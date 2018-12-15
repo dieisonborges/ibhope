@@ -62,8 +62,8 @@
     <header class="masthead">
       <div class="container d-flex h-100 align-items-center">
         <div class="mx-auto text-center">
-          <h1 class="mx-auto my-0 text-uppercase">HOPE</h1>
-          <h2 class="text-white-50 mx-auto mt-2 mb-5">Igreja Batista</h2>
+          <img src="{{ asset('logo/logo-872x872-branca-transparent.png') }}" width="200px">
+          <br><br>
           <h2 class="text-white-50 mx-auto mt-2 mb-5"><i>"Aos quais Deus quis fazer conhecer quais são as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, <span style="color: #ff6666;"> esperança </span> da glória"</i></h2>
           <h2 class="text-white-50 mx-auto mt-2 mb-5"><small>Colossenses 1:27 ACF</small></h2>
           <a href="#about" class="btn btn-primary js-scroll-trigger">Conheça Nossa História</a>
