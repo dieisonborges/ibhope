@@ -8,6 +8,8 @@
     <meta name="description" content="Igreja Batista HOPE - Curitiba - PR - Jesus">
     <meta name="author" content="Igreja Batista HOPE">
 
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('logo/favicon/favicon-32x32.png') }}">
+
     <title>HOPE - Igreja Batista</title>
 
     <!-- Bootstrap core CSS -->
