@@ -33,7 +33,7 @@
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
       <div class="container">
         <a class="navbar-brand js-scroll-trigger" href="#page-top">
-          <img src="{{ asset('logo/logo-960x960-transparent.png') }}" width="80px" alt="HOPE - Igreja Batista">
+          <img src="{{ asset('logo/logo-preta-1200x1200.png') }}" width="80px" alt="HOPE - Igreja Batista">
         </a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           Menu
@@ -46,9 +46,18 @@
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#noscremos">Nós cremos</a>
-            </li>            
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#ministerios">Ministérios</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#doacoes">Doações</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#programacao">Programação</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#noticias">Notícias</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contato">Contato</a>
@@ -62,11 +71,11 @@
     <header class="masthead">
       <div class="container d-flex h-100 align-items-center">
         <div class="mx-auto text-center">
-          <img src="{{ asset('logo/logo-960x960-transparent.png') }}" width="200px">
-          <br><br>
-          <h2 class="text-white-50 mx-auto mt-2 mb-5"><i>"Aos quais Deus quis fazer conhecer quais são as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, <span style="color: #ff6666;"> esperança </span> da glória"</i></h2>
-          <h2 class="text-white-50 mx-auto mt-2 mb-5"><small>Colossenses 1:27 ACF</small></h2>
-          <a href="#about" class="btn btn-primary js-scroll-trigger">Conheça Nossa História</a>
+          <img src="{{ asset('logo/logo-preta-1200x1200.png') }}" width="300px" style="margin-top: 100px;">
+          <br>
+          <h2 class="text-white-50 mx-auto mt-2 mb-5"><i>"Cristo em vós, <span style="color: #5FA39E;"> esperança </span> da glória"</i>
+            <br><small>Colossenses 1:27 ACF</small></h2>
+          <a href="#about" class="btn btn-primary js-scroll-trigger btn-sm">Nossa História</a>
         </div>
       </div>
     </header>
@@ -77,8 +86,22 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2 class="text-white mb-4">Respondendo ao Chamado</h2>
-            <p class="text-white-50">Tudo começou com algumas famílias apaixonadas por Jesus, em unidade de visão, respondendo ao chamado pastoral, com um coração desejoso de resgatar a identidade e as <a href="#cremos"> boas novas </a> de Jesus Cristo ativando os ministérios esquecidos na vidas dos filhos.<br><br>
-            "<i style="color: #ffeb99;">E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.</i>" <small>Romanos 8:28 ACF</small>
+            <p class="text-white-50">Tudo começou com algumas famílias apaixonadas por Jesus, em unidade de visão, respondendo ao chamado pastoral, com um coração desejoso de resgatar a identidade e as <a href="#cremos"> boas novas </a> de Jesus Cristo ativando os ministérios esquecidos na vida dos filhos.<br><br>
+            "<i style="color: #5FA39E;">E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.</i>" <small>Romanos 8:28 ACF</small>
+
+            <p class="text-white-50">
+              
+              <img src="{{ asset('site/img/prjonas.jpg') }}" width="30%">
+              <br><br>
+              <span class="text-white">Pr. Jonas Serra</span>
+              <br>
+              <small>Líder Pastoral</small>
+              <br>
+              <small><i class="fa fa-mobile-alt"></i> +55 41 99590-2045</small>
+              <br>
+              <small><i class="fa fa-envelope"></i> prjonas@ibhope.com.br</small>
+
+            </p>
             </p>
           </div>
         </div>
@@ -233,6 +256,243 @@
       </div>
     </section>
 
+    <!-- Projects Section -->
+    <section id="ministerios" class="projects-section bg-light">
+      <div class="container">
+        <!-- Featured Project Row -->
+        <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+          <div class="col-xl-8 col-lg-7">
+            <img class="img-fluid mb-3 mb-lg-0" src="{{ asset('site/img/bg-servir.jpg') }}" alt="">
+          </div>
+          <div class="col-xl-4 col-lg-5">
+            <div class="featured-text text-center text-lg-left">
+              <h4>Ministérios</h4>
+              <p class="text-black-50 mb-0">
+                <i>"Porque assim como em um corpo temos muitos membros, e nem todos os membros têm a mesma operação, assim nós, que somos muitos, somos um só corpo em Cristo, mas individualmente somos membros uns dos outros."</i> Romanos 12:4,5 ACF</p>
+            </div>
+          </div>
+        </div>  
+
+        <div class="row">
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-music text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Música</h4>
+                <hr class="my-4">
+                <div class="small text-black-20"><i>"Cantem ao Senhor um novo cântico; cantem ao Senhor, todos os habitantes da terra! Cantem ao Senhor, bendigam o seu nome; cada dia proclamem a sua salvação! "</i> <small>Salmos 96:1-2</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato: Mariane A. Caixeta <br>
+                  <a href="#"><i class="fa fa-envelope"></i> musica@ibhope.com.br</a>
+                  <br>
+                  <a href="#"><i class="fa fa-mobile-alt"></i> +55 41 99841-9373</a>
+                  <br><br>                  
+                </div>
+                                
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-male text-primary mb-2"></i>
+                <i class="fas fa-child text-primary mb-2"></i>
+                <i class="fas fa-male text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Dança</h4>
+                <hr class="my-4">
+                <div class="small text-black-20"><i>"Alegre-se Israel no seu Criador,
+exulte o povo de Sião no seu Rei! Louvem eles o seu nome com danças;"</i> <small>Salmos 149:2</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-tasks text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Eventos</h4>
+
+                <hr class="my-4">
+                <div class="small text-black-20"><i>"Este dia será um memorial que vocês e todos os seus descendentes celebrarão como festa ao Senhor. Celebrem-no como decreto perpétuo."</i> <small>Êxodo 12:14</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+               
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <br>
+        <div class="row">
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-child text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Infantil</h4>
+                
+                <hr class="my-4">
+                <div class="small text-black-20"><i>Então disse Jesus: "Deixem vir a mim as crianças e não as impeçam; pois o Reino dos céus pertence aos que são semelhantes a elas".</i> <small>Mateus 19:14</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-male text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Adolescentes</h4>
+                <hr class="my-4">
+
+                <div class="small text-black-20"><i>Alegre-se, jovem, na sua mocidade! Seja feliz o seu coração nos dias da sua juventude!</i> <small>Eclesiastes 11:9</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-male text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Jovens</h4>
+                <hr class="my-4">
+                
+                <div class="small text-black-20"><i>"Ninguém o despreze pelo fato de você ser jovem, mas seja um exemplo para os fiéis na palavra, no procedimento, no amor, na fé e na pureza."</i> <small>1 Timóteo 4:12</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+
+        <br>
+
+        <div class="row">
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-paperclip text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Secretaria</h4>
+                <hr class="my-4">
+
+                <div class="small text-black-20"><i>"Pois Deus não é Deus de desordem, mas de paz. Como em todas as congregações dos santos."</i> <small>1 Coríntios 14:33</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato: Mariane A. Caixeta <br>
+                  <a href="#"><i class="fa fa-envelope"></i> secretaria@ibhope.com.br</a>
+                  <br>
+                  <a href="#"><i class="fa fa-mobile-alt"></i> +55 41 99841-9373</a>
+                  <br><br>                  
+                </div>
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-hand-holding-usd text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Financeiro</h4>
+                <hr class="my-4">
+                
+                <div class="small text-black-20"><i>"Não confiem na extorsão, nem ponham a esperança em bens roubados; se as suas riquezas aumentam, não ponham nelas o coração. "</i> <small>Salmos 62:10</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato: Dieison S. Borges <br>
+                  <a href="#"><i class="fa fa-envelope"></i> financeiro@ibhope.com.br</a>
+                  <br>
+                  <a href="#"><i class="fa fa-mobile-alt"></i> +55 41 99841-9373</a>
+                  <br><br>                  
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-hands-helping text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Social</h4>
+                <hr class="my-4">
+                
+                <div class="small text-black-20"><i>"Se alguém tiver recursos materiais e, vendo seu irmão em necessidade, não se compadecer dele, como pode permanecer nele o amor de Deus? Filhinhos, não amemos de palavra nem de boca, mas em ação e em verdade. "</i> <small>1 João 3:17-18</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato: Jefferson Batista <br>
+                  <a href="#"><i class="fa fa-envelope"></i> social@ibhope.com.br</a>
+                  <br>
+                  <a href="#"><i class="fa fa-mobile-alt"></i> +55 41 98843-9661</a>
+                  <br><br>                  
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <br>
+
+
+
+
+
+        
+
+
+
+      </div>
+    </section>
 
 
     <!-- Signup Section -->
@@ -261,16 +521,26 @@
                 <br>
                   <p class="medium text-black-50 text-left">
                     <span class="fa fa-university"></span> 
-                    Caixa Econômica Federal
+                    Utilize o botão abaixo para doar ao Ministério HOPE:
                   </p>
                   <p class="small text-black-50 text-left">
-                    Agência: <b>0000-0</b>
-                    <br>
-                    Conta Poupança: <b>00000000-0</b>
-                    <br>
-                    Variação/Operação: <b>013</b> 
-                    <br>
-                    CPF: <b>000.000.000-00</b>              
+                    
+                    <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                    <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                    <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                    <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                    <input type="hidden" name="currency" value="BRL" />
+                    <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                    <input type="hidden" name="iot" value="button" />
+                    <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                    </form>
+                    <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                    <!-- ------------------- END PAGSEGURO --------------------- -->
+
+
+
                   </p>                
               </div>
             </div>
@@ -288,7 +558,7 @@
 
 
     <!-- Signup Section -->
-    <section id="contato" class="signup-section">
+    <section id="programacao" class="signup-section">
       <div class="container">
         <div class="row">
           <div class="col-md-10 col-lg-8 mx-auto text-center">
@@ -331,7 +601,7 @@
     
 
     <!-- Contact Section -->
-    <section class="contact-section bg-black">
+    <section id="contato" class="contact-section bg-black">
       <div class="container">
 
         <div class="row">
@@ -404,6 +674,9 @@
           <a href="https://www.instagram.com/hopeigrejabatista/" class="mx-2" target="_blank">
             <i class="fab fa-instagram"></i>
           </a>
+          <a href="https://www.youtube.com" class="mx-2" target="_blank">
+            <i class="fab fa-youtube"></i>
+          </a>
         </div>
 
       </div>
@@ -413,7 +686,7 @@
     <footer class="bg-black small text-center text-white-50">
       <div class="container">
         Copyright &copy; Igreja Batista HOPE 2018 <br><br>
-        <img src="{{ asset('logo/logo-872x872-branca-transparent.png') }}" width="100px">
+        <img src="{{ asset('logo/logo-branca-1200x1200.png') }}" width="100px">
         
       </div>
     </footer>
