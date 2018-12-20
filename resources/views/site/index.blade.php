@@ -75,7 +75,7 @@
           <br>
           <h2 class="text-white-50 mx-auto mt-2 mb-5"><i>"Cristo em vós, <span style="color: #5FA39E;"> esperança </span> da glória"</i>
             <br><small>Colossenses 1:27 ACF</small></h2>
-          <a href="#about" class="btn btn-primary js-scroll-trigger btn-sm">Nossa História</a>
+          <a href="#nossahistoria" class="btn btn-primary js-scroll-trigger btn-sm">Nossa História</a>
         </div>
       </div>
     </header>
@@ -86,9 +86,39 @@
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <h2 class="text-white mb-4">Respondendo ao Chamado</h2>
-            <p class="text-white-50">Tudo começou com algumas famílias apaixonadas por Jesus, em unidade de visão, respondendo ao chamado pastoral, com um coração desejoso de resgatar a identidade e as <a href="#cremos"> boas novas </a> de Jesus Cristo ativando os ministérios esquecidos na vida dos filhos.<br><br>
-            "<i style="color: #5FA39E;">E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito.</i>" <small>Romanos 8:28 ACF</small>
+            <p class="text-white-50 text-justify">
 
+              Tudo começou com algumas famílias apaixonadas e decididas a viverem o propósito de Cristo em suas vidas... 
+              <br><br>
+              Após a consagração do Pastor <b class="text-white">Jonas Serra</b> e sua esposa <b class="text-white">Graciela Serra</b>, quatro famílias se juntam e se reúnem (Jonas, Graciela e Ana Clara; Dieison, Mariane, Pedrinho e Dion Marcos; Jeferson e Camila; Rodrigo, Duda e Marina) decididas a caminharem na mesma <b class="text-white">visão e propósito</b> de viverem somente a simplicidade do Evangelho de Cristo na sua essência, fora dos moldes “opressores” da religiosidade e da religião.
+
+              <br><br>
+              Em comum acordo todos decidem fazer os seus encontros de louvor e adoração ao Senhor em uma simples garagem, a nossa atual e denominada:
+
+            </p>
+
+            <p class="text-white text-center">
+
+               <img src="{{ asset('logo/logo-branca-1200x1200.png') }}" width="150px;">
+               <b>IGREJA BATISTA HOPE </b>em Curitiba
+            </p>
+            <p class="text-white-50 text-justify">
+
+              Hoje, vivendo o propósito de levar a Esperança do Evangelho a todos, também estamos convictos de contribuir com a restauração e <b class="text-white">ativação de ministérios e propósitos</b> na vida dos servos do Senhor, para  maior edificação do “Corpo de Cristo” no seu <b class="text-white">Reino</b>. 
+              <br><br>
+
+              Pois entendemos que se cada servo resgatar sua identidade e propósito no Reino, Todos teremos uma igreja muito mais saudável, potencializada e motivada para sua grande missão de servir.
+            </p>
+            <p class="text-white text-center">
+              <i>"E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."</i> <small>Romanos 8:28</small>
+
+              <br> <br> <br> <br>
+              <b>IGREJA BATISTA HOPE</b>
+              <br>
+              “Vivendo a Esperança e a simplicidade do Evangelho de Cristo”
+            </p>
+
+            <!--
             <p class="text-white-50">
               
               <img src="{{ asset('site/img/prjonas.jpg') }}" width="30%">
@@ -102,7 +132,8 @@
               <small><i class="fa fa-envelope"></i> prjonas@ibhope.com.br</small>
 
             </p>
-            </p>
+            -->
+
           </div>
         </div>
       </div>
@@ -202,7 +233,7 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/ajuda.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/social.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
@@ -253,6 +284,24 @@
           </div>
         </div>
 
+        <!-- Project Two Row -->
+        <div class="row justify-content-center no-gutters">
+          <div class="col-lg-6">
+            <img class="img-fluid" src="{{ asset('site/img/grupos.jpg') }}" alt="">
+          </div>
+          <div class="col-lg-6 order-lg-first">
+            <div class="bg-black text-center h-100 project">
+              <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-right">
+                  <h4 class="text-white"><span class="fa fa-users"></span> Pequenos Grupos</h4>
+                  <p class="mb-0 text-white-50"> A Igreja irá estimular os pequenos grupos como complemento às reuniões, priorizando atividades em comum, se reunindo nos lares, parques, escolas com o propósito de promover integração e comunhão. Ninguém deverá ser forçado ou pressionado a participar de um pequeno grupo.</p>
+                  <hr class="d-none d-lg-block mb-0 mr-0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -285,7 +334,7 @@
                 </div>
                 <br>
                 <div class="small text-black-50">
-                  Contato: Mariane A. Caixeta <br>
+                  Líderes: Graciela Serra e Mariane Caixeta <br>
                   <a href="#"><i class="fa fa-envelope"></i> musica@ibhope.com.br</a>
                   <br>
                   <a href="#"><i class="fa fa-mobile-alt"></i> +55 41 99841-9373</a>
@@ -423,10 +472,10 @@ exulte o povo de Sião no seu Rei! Louvem eles o seu nome com danças;"</i> <sma
                 </div>
                 <br>
                 <div class="small text-black-50">
-                  Contato: Mariane A. Caixeta <br>
+                  Contato:<br>
                   <a href="#"><i class="fa fa-envelope"></i> secretaria@ibhope.com.br</a>
                   <br>
-                  <a href="#"><i class="fa fa-mobile-alt"></i> +55 41 99841-9373</a>
+                  <a href="#"><i class="fa fa-mobile-alt"></i> +55 41 3149-4222</a>
                   <br><br>                  
                 </div>
                 
@@ -482,6 +531,100 @@ exulte o povo de Sião no seu Rei! Louvem eles o seu nome com danças;"</i> <sma
 
         </div>
         <br>
+
+        <div class="row">
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-male text-primary mb-2"></i>
+                <i class="fas fa-female text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Casais</h4>
+                <hr class="my-4">
+
+                <div class="small text-black-20"><i>"Por essa razão, o homem deixará pai e mãe e se unirá à sua mulher, e eles se tornarão uma só carne. "</i> <small>Gênesis 2:24</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+                
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-male text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Homens</h4>
+                <hr class="my-4">
+                
+                <div class="small text-black-20"><i>"Você, porém, homem de Deus, fuja de tudo isso e busque a justiça, a piedade, a fé, o amor, a perseverança e a mansidão. "</i> <small>1 Timóteo 6:11</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-female text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Mulheres</h4>
+                <hr class="my-4">
+                
+                <div class="small text-black-20"><i>"Mulher virtuosa quem a achará? O seu valor muito excede ao de rubis."</i> <small>Provérbios 31:10</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <br>
+
+        <div class="row">
+
+          <div class="col-md-4 mb-3 mb-md-0">
+            <div class="card py-4 h-100">
+              <div class="card-body text-center">
+                <i class="fas fa-users text-primary mb-2"></i>
+                <h4 class="text-uppercase m-0">Pequenos Grupos</h4>
+                <hr class="my-4">
+
+                <div class="small text-black-20"><i>"Pois Deus não é Deus de desordem, mas de paz. Como em todas as congregações dos santos."</i> <small>1 Coríntios 14:33</small>
+                </div>
+                <br>
+                <div class="small text-black-50">
+                  Contato:<br>
+                  <a href="#"><i class="fa fa-envelope"></i> contato@ibhope.com.br</a>
+                  <br>                
+                </div>
+                
+              </div>
+            </div>
+          </div>
+          
+
+        </div>
 
 
 
@@ -587,8 +730,9 @@ exulte o povo de Sião no seu Rei! Louvem eles o seu nome com danças;"</i> <sma
                     <br><br>
                     <span class="fa fa-users"></span> Pequenos Grupos às Quartas-feiras às <b>19:30</b>
                     <br><br>
-                    <span class="fa fa-male"></span><span class="fa fa-female"></span> Força HOPE Sábado (Quinzenal) às <b>19:00</b> (Jovens)
+                    <span class="fa fa-child"></span><span class="fa fa-child"></span></span> HOPE Jovem Sábado (Quinzenal) às <b>19:00</b>
                     <br><br>
+                    <span class="fa fa-pray"></span></span> Encontros de Oração Sexta-Feira às <b>20:00</b> (Quinzenal)
                     
                   </p>
               </div>
