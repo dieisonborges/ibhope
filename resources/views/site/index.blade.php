@@ -90,29 +90,28 @@
 
               Tudo começou com algumas famílias apaixonadas e decididas a viverem o propósito de Cristo em suas vidas... 
               <br><br>
-              Após a consagração do Pastor <b class="text-white">Jonas Serra</b> e sua esposa <b class="text-white">Graciela Serra</b>, quatro famílias se juntam e se reúnem (Jonas, Graciela e Ana Clara; Dieison, Mariane, Pedrinho e Dion Marcos; Jeferson e Camila; Rodrigo, Duda e Marina) decididas a caminharem na mesma <b class="text-white">visão e propósito</b> de viverem somente a simplicidade do Evangelho de Cristo na sua essência, fora dos moldes “opressores” da religiosidade e da religião.
-
+              Após a consagração do Pastor <b class="text-white">Jonas Serra</b> e sua esposa <b class="text-white">Graciela Serra</b>, quatro famílias se juntam e se reúnem (Jonas, Graciela e Ana Clara; Dieison, Mariane, Pedrinho e Dion Marcos; Jeferson e Camila; Rodrigo, Duda e Marina) decididas a caminharem na mesma <b class="text-white">visão e propósito</b> de viverem somente a simplicidade do Evangelho de Cristo na sua essência, fora dos moldes “opressores” da religiosidade e da religião, decidiram
+em comum acordo fazerem dos seus encontros de louvor e adoração ao Senhor em uma simples garagem, a
+nossa atual e denominada <b class="text-white">IGREJA BATISTA HOPE</b> em Curitiba.
               <br><br>
-              Em comum acordo todos decidem fazer os seus encontros de louvor e adoração ao Senhor em uma simples garagem, a nossa atual e denominada:
 
-            </p>
+              Hoje, vivendo o propósito de levar a Esperança do Evangelho a todos, também estamos convictos de que a igreja não é só um “Hospital para doentes”, mas um centro de <b class="text-white">restauração e ativação de propósitos</b>, para maior edificação do “Corpo de Cristo” no seu <b class="text-white">Reino</b>.
 
-            <p class="text-white text-center">
-
-               <img src="{{ asset('logo/logo-branca-1200x1200.png') }}" width="150px;">
-               <b>IGREJA BATISTA HOPE </b>em Curitiba
-            </p>
-            <p class="text-white-50 text-justify">
-
-              Hoje, vivendo o propósito de levar a Esperança do Evangelho a todos, também estamos convictos de contribuir com a restauração e <b class="text-white">ativação de ministérios e propósitos</b> na vida dos servos do Senhor, para  maior edificação do “Corpo de Cristo” no seu <b class="text-white">Reino</b>. 
+              
               <br><br>
 
               Pois entendemos que se cada servo resgatar sua identidade e propósito no Reino, Todos teremos uma igreja muito mais saudável, potencializada e motivada para sua grande missão de servir.
+
             </p>
             <p class="text-white text-center">
               <i>"E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."</i> <small>Romanos 8:28</small>
 
-              <br> <br> <br> <br>
+              <br><br><br><br>
+
+               <img src="http://www.ibhope.com.br/ibhope/public/logo/logo-branca-1200x1200.png" width="150px;">
+
+              <br>
+
               <b>IGREJA BATISTA HOPE</b>
               <br>
               “Vivendo a Esperança e a simplicidade do Evangelho de Cristo”
