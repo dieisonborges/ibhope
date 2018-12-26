@@ -286,7 +286,7 @@ nossa atual e denominada <b class="text-white">IGREJA BATISTA HOPE</b> em Curiti
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/grupos.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/grupos-pequenos.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
