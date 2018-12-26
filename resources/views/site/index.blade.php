@@ -57,7 +57,7 @@
               <a class="nav-link js-scroll-trigger" href="#programacao">Programação</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#noticias">Notícias</a>
+              <a class="nav-link js-scroll-trigger" href="http://noticias.ibhope.com.br" target="_blank">Notícias</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#contato">Contato</a>
