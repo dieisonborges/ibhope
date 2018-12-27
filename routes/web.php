@@ -11,6 +11,14 @@
 |
 */
 
+/* --------------------- SITE --------------------- */
 Route::get('/', function () {
     return view('site.index');
 });
+
+Route::get('/metas', function () {
+    return view('site.meta');
+});
+
+/* --------------------- END SITE --------------------- */
+
