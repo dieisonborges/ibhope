@@ -12,7 +12,7 @@
           <div class="col-xl-4 col-lg-5">
             <div class="featured-text text-center text-lg-left">
               <h4>Sonhos e Metas</h4>
-              <p class="text-black-50 mb-0">Abaixo você terá a oportunidade de oefrtas, e ajudar a realizar os sonhos de Deus.</p>
+              <p class="text-black-50 mb-0">Abaixo você verá a lista dos equipamentos que precisamos para executar os projetos de Deus da nossa igreja. Faça parte deste sonho e oferte qualquer valor.</p>
             </div>
           </div>
         </div>
@@ -20,14 +20,35 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/biblia.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/mesa-de-som.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 class="text-white"><span class="fa fa-bible"></span> Palavra de Deus</h4>
-                  <p class="mb-0 text-white-50">A igreja terá como seu norte e regra de fé, única e exclusivamente a Palavra de Deus entendida no seu contexto.</p>
+                  <h4 class="text-white"><span class="fa fa-check"></span> Mesa de Som</h4>
+                  <p class="mb-0 text-white-50">Mesa de Som Behringer Mixer Xenyx X2442USB 24 Entradas 4/2 Bus Mixer Interface USB. <br> Preço médio: <span class="text-white">R$ 2.959,00</span></p>
+
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>
+
+                  
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
                   <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
@@ -44,8 +65,28 @@
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 class="text-white"><span class="fa fa-dove"></span> Liberdade no Espírito</h4>
-                  <p class="mb-0 text-white-50">A igreja terá liberdade para o agir no “Mover bíblico” do Espirito Santo e não em estranhas manifestações que tirem Jesus e sua Palavra do centro do culto.</p>
+                  <h4 class="text-white"><span class="fa fa-dove"></span> Microfone</h4>
+                  <p class="mb-0 text-white-50">06 (seis) Microfones Shure SV100 para vocal com Cabo XLR-P10. <br> Preço médio unitário: <span class="text-white">R$ 159,90</span></p>
+
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>
+
+                  
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
                   <hr class="d-none d-lg-block mb-0 mr-0">
                 </div>
               </div>
