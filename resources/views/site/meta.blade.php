@@ -6,11 +6,11 @@
   <body id="page-top">    
 
 
-    @include('site.layouts.headermetas')
+    @include('site.layouts.metas_header')
 
     @include('site.layouts.metas')
 
-    @include('site.layouts.doacoes')
+    @include('site.layouts.metas_doacoes')
 
     @include('site.layouts.contato')
 

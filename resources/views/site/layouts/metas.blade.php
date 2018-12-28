@@ -20,13 +20,13 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/metas/mesa-de-som.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/mesa-som.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 class="text-white"><span class="fa fa-check"></span> Mesa de Som</h4>
+                  <h4 class="text-white"><span class="fa fa-volume-up"></span> Mesa de Som</h4>
                   <p class="mb-0 text-white-50">Mesa de Som Behringer Mixer Xenyx X2442USB 24 Entradas 4/2 Bus Mixer Interface USB. <br> Preço médio: <span class="text-white">R$ 2.959,00</span></p>
 
                   <br>
@@ -59,20 +59,18 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/liberdade.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/microfone.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 class="text-white"><span class="fa fa-dove"></span> Microfone</h4>
-                  <p class="mb-0 text-white-50">06 (seis) Microfones Shure SV100 para vocal com Cabo XLR-P10. <br> Preço médio unitário: <span class="text-white">R$ 159,90</span></p>
+                  <h4 class="text-white"><span class="fa fa-microphone"></span> Microfone</h4>
+                  <p class="mb-0 text-white-50">04 (quatro) Microfones Shure SM58 LC Dinâmico Cardioide Profissional. <br> Preço médio unitário: <span class="text-white">R$ 749,90</span></p>
 
                   <br>
 
-                  <p class="mb-0 text-white">Oferte qualquer valor:</p>
-
-                  
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
 
                   <!-- --------------------- PAGSEGURO ----------------------- -->
 
@@ -97,15 +95,33 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/leveza.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/pedestal.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 class="text-white"><span class="fa fa-feather-alt"></span> Leveza e Simplicidade</h4>
-                  <p class="mb-0 text-white-50"> A igreja desenvolverá suas atividades ministeriais pautadas na leveza e na simplicidade do Evangelho de Cristo.</p>
-                  <hr class="d-none d-lg-block mb-0 mr-0">
+                  <h4 class="text-white"><span class="fa fa-microphone"></span> Pedestal</h4>
+                  <p class="mb-0 text-white-50"> 04 (quatro) Pedestais Para Microfone PMV 01 C/ Cachimbo - Preto.<br> Preço médio unitário: <span class="text-white">R$ 63,00</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
+                  <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
             </div>
@@ -115,14 +131,33 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/lideranca.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/bateria.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 class="text-white"><span class="fa fa-people-carry"></span> Liderança</h4>
-                  <p class="mb-0 text-white-50"> Nenhum líder da igreja deverá impor sobre seus liderados  qualquer forma de pressão, domínio ou falta de liberdade. (O líder deve influenciar…)</p>
+                  <h4 class="text-white"><span class="fa fa-drum"></span> Bateria</h4>
+                  <p class="mb-0 text-white-50"> Bateria Eletrônica Yamaha DTX402K <br> 
+                    Preço médio unitário: <span class="text-white">R$ 3.599,00</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
                   <hr class="d-none d-lg-block mb-0 mr-0">
                 </div>
               </div>
@@ -133,15 +168,34 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/social.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/baixo.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 class="text-white"><span class="fa fa-hands-helping"></span> Social</h4>
-                  <p class="mb-0 text-white-50"> A igreja trabalhará para desenvolver seus relacionamentos na comunidade, através serviços que contribuirão para o desenvolvimento da mesma.</p>
-                  <hr class="d-none d-lg-block mb-0 mr-0">
+                  <h4 class="text-white"><span class="fa fa-music"></span> Baixo</h4>
+                  <p class="mb-0 text-white-50"> Baixo Yamaha Trbx174-bc Preto Com 4 Cordas E Captador Passivo. <br> 
+                    Preço médio unitário: <span class="text-white">R$ 1.229,00</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
+                  <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
             </div>
@@ -151,14 +205,33 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/reino.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/caixa.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 class="text-white"><span class="fa fa-church"></span> A serviço do Reino de Deus</h4>
-                  <p class="mb-0 text-white-50"> A igreja terá como grande valor, o desenvolvimento de suas  atividades e a  excelência nos seus serviços ao Reino.</p>
+                  <h4 class="text-white"><span class="fa fa-volume-up"></span> AutoFalante</h4>
+                  <p class="mb-0 text-white-50"> 02 (duas) Caixas ativas Oneal 700 W RMS 2 Auto Falante + Driver OPB-2800L-PT. 
+                    <br> 
+                    Preço médio unitário: <span class="text-white">R$ 2.490,00</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
                   <hr class="d-none d-lg-block mb-0 mr-0">
                 </div>
               </div>
@@ -169,15 +242,34 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/familia.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/teclado.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                  <h4 class="text-white"><span class="fa fa-home"></span> Família</h4>
-                  <p class="mb-0 text-white-50"> O núcleo familiar projetado por Deus, através da união de um homem, uma mulher e seus filhos, são prioridade e não devemos abrir mão do convivio familiar.</p>
-                  <hr class="d-none d-lg-block mb-0 mr-0">
+                  <h4 class="text-white"><span class="fa fa-keyboard"></span> Teclado</h4>
+                  <p class="mb-0 text-white-50"> Teclado Arranjador 61 Teclas PSR-S670 YAMAHA. <br> 
+                    Preço médio unitário: <span class="text-white">R$ 3.560,60</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
+                  <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
             </div>
@@ -187,14 +279,33 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/grupos-pequenos.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/metas/suporte-teclado.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                  <h4 class="text-white"><span class="fa fa-users"></span> Pequenos Grupos</h4>
-                  <p class="mb-0 text-white-50"> A Igreja irá estimular os pequenos grupos como complemento às reuniões, priorizando atividades em comum, se reunindo nos lares, parques, escolas com o propósito de promover integração e comunhão. Ninguém deverá ser forçado ou pressionado a participar de um pequeno grupo.</p>
+                  <h4 class="text-white"><span class="fa fa-keyboard"></span> Suporte para Teclado</h4>
+                  <p class="mb-0 text-white-50"> Suporte Stay Music Torre 1100/02 Preto.<br> 
+                    Preço médio unitário: <span class="text-white">R$ 404,90</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
                   <hr class="d-none d-lg-block mb-0 mr-0">
                 </div>
               </div>
