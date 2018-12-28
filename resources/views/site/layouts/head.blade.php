@@ -20,6 +20,18 @@
     <!-- Custom styles for this template -->
     <link href="{{ asset('site/css/grayscale.css') }}" rel="stylesheet">
 
+    <!-- ------------------- GOOGLE Analytics ------------------- -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131494086-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-131494086-1');
+    </script>
+    <!-- ------------------- END GOOGLE Analytics ------------------- -->
+
 
 
 </head>
