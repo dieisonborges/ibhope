@@ -313,5 +313,119 @@
           </div>
         </div>
 
+
+        <!-- Project One Row -->
+        <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+          <div class="col-lg-6">
+            <img class="img-fluid" src="{{ asset('site/img/metas/microfone-sem-fio.jpg') }}" alt="">
+          </div>
+          <div class="col-lg-6">
+            <div class="bg-black text-center h-100 project">
+              <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                  <h4 class="text-white"><span class="fa fa-microphone"></span> Microfone Sem Fio</h4>
+                  <p class="mb-0 text-white-50"> Microfone Sem Fio Bateria Lithium Vokal Vla-42. <br> 
+                    Preço médio unitário: <span class="text-white">R$ 596,00</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
+                  <hr class="d-none d-lg-block mb-0 ml-0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Project Two Row -->
+        <div class="row justify-content-center no-gutters">
+          <div class="col-lg-6">
+            <img class="img-fluid" src="{{ asset('site/img/metas/casarao.jpg') }}" alt="">
+          </div>
+          <div class="col-lg-6 order-lg-first">
+            <div class="bg-black text-center h-100 project">
+              <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-right">
+                  <h4 class="text-white"><span class="fa fa-home"></span> Local de Reunião</h4>
+                  <p class="mb-0 text-white-50"> Nossa casa tem vários custos, como: àgua, luz, internet, aluguel, IPTU, dentre outros. Sua oferta nos ajuda nas despesas mensais.<br> 
+                  </p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
+                  <hr class="d-none d-lg-block mb-0 mr-0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- Project One Row -->
+        <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+          <div class="col-lg-6">
+            <img class="img-fluid" src="{{ asset('site/img/metas/cadeira-preta.jpg') }}" alt="">
+          </div>
+          <div class="col-lg-6">
+            <div class="bg-black text-center h-100 project">
+              <div class="d-flex h-100">
+                <div class="project-text w-100 my-auto text-center text-lg-left">
+                  <h4 class="text-white"><span class="fa fa-home"></span> Cadeira Preta</h4>
+                  <p class="mb-0 text-white-50"> 70 (setenta) cadeiras ISO Plástica preta. <br>
+                    Preço médio unitário: <span class="text-white">R$ 65,00</span></p>
+                  <br>
+
+                  <p class="mb-0 text-white">Oferte qualquer valor:</p>                 
+
+                  <!-- --------------------- PAGSEGURO ----------------------- -->
+
+                      <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+                      <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+                      <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+                      <input type="hidden" name="currency" value="BRL" />
+                      <input type="hidden" name="receiverEmail" value="dieisoncomix@gmail.com" />
+                      <input type="hidden" name="iot" value="button" />
+                      <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/120x53-doar-preto.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+                      </form>
+                      <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+
+                  <!-- ------------------- END PAGSEGURO --------------------- -->
+
+                  <hr class="d-none d-lg-block mb-0 ml-0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
