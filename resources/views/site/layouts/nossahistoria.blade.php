@@ -19,12 +19,36 @@ nossa atual e denominada <b class="text-white">IGREJA BATISTA HOPE</b> em Curiti
               <br><br>
 
               Pois entendemos que se cada servo resgatar sua identidade e propósito no Reino, Todos teremos uma igreja muito mais saudável, potencializada e motivada para sua grande missão de servir.
+            </p>
+            <p class="text-white-50 text-center">
+
+              <i  class="text-white">"E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."</i> <small>Romanos 8:28</small>
 
             </p>
-            <p class="text-white text-center">
-              <i>"E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."</i> <small>Romanos 8:28</small>
+            
 
-              <br><br><br><br>
+          </div>
+
+        <div class="col-lg-8 mx-auto">
+          <h2 class="text-white mb-4">Visão</h2>
+          <p class="text-white-50 text-justify">
+            Ser uma igreja movida por princípios Bíblicos, desconectados dos moldes da religiosidade e vivendo a esperança e a simplicidade do evangelho de Cristo.
+          </p>
+        </div>
+
+        <div class="col-lg-8 mx-auto">
+          <h2 class="text-white mb-4">Missão</h2>
+          <p class="text-white-50 text-justify">
+            Levar a palavra de <b class="text-white">Salvação e Esperança</b> a todos, afetar os rumos da nossa sociedade através da palavra, restaurar de forma ativa, ministérios e propósitos para potencializar e edificar o "Corpo de Cristo" na sua missão de servir.
+          </p>
+        </div>
+
+
+        <div class="col-lg-8 mx-auto">
+            <p class="text-white text-center">
+              
+
+              <br><br>
 
                <img src="http://www.ibhope.com.br/ibhope/public/logo/logo-branca-1200x1200.png" width="150px;">
 
