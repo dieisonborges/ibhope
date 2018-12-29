@@ -12,9 +12,9 @@
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#nossahistoria">Nossa História</a>
-            </li>
+            </li>            
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#noscremos">Nós cremos</a>
+              <a class="nav-link js-scroll-trigger" href="#noscremos">Nós cremos</a>              
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#ministerios">Ministérios</a>

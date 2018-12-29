@@ -6,8 +6,8 @@
             <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
             <h2 class="text-white mb-5">Saiba o que acontece na HOPE.</h2>
 
-            <form class="form-inline d-flex">
-            <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail" placeholder="Entre com um endereço de email...">
+            <form class="form-inline d-flex" target="_blank" action="http://noticias.ibhope.com.br" method="post">
+            <input type="email" class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail" placeholder="Entre com um endereço de email..." required="required">
             <button type="submit" class="btn btn-primary mx-auto">Inscrever</button>
             </form>
           </div>

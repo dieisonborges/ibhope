@@ -75,7 +75,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/liberdade.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/jesus.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -111,7 +111,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/liberdade.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/organizacao.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -147,7 +147,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/liberdade.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/costumes.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -165,7 +165,7 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/leveza.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/culto.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
@@ -183,7 +183,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/liberdade.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/amor.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -309,7 +309,7 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/adoracao.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/triuno.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
@@ -330,7 +330,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/lideranca.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/salvacao.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -348,7 +348,7 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/adoracao.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/jesus.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
@@ -366,7 +366,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/lideranca.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/demo-image-02.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -402,7 +402,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/lideranca.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/jesus.jpg') }}" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -456,7 +456,7 @@
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="{{ asset('site/img/adoracao.jpg') }}" alt="">
+            <img class="img-fluid" src="{{ asset('site/img/demo-image-01.jpg') }}" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">

@@ -25,7 +25,7 @@
                       </p>
                       <p class="small text-black-50 text-center">
                         
-                        <a href="metas/" class="btn btn-primary">Sonhos e Metas</a>
+                        <a href="metas/" class="btn btn-primary" target="_blank">Sonhos e Metas</a>
 
                       </p>                
                   </div>
