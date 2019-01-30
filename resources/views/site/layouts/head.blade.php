@@ -4,6 +4,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Igreja Batista HOPE - Curitiba - PR - Jesus">
     <meta name="author" content="Igreja Batista HOPE">
+    <meta name="msapplication-TileImage" content="{{ asset('logo/favicon/ms-icon-310x310.png') }}" />
+
 
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('logo/favicon/favicon-32x32.png') }}">
 
