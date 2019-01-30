@@ -2,9 +2,17 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Igreja Batista HOPE - Curitiba - PR - Jesus">
+    
     <meta name="author" content="Igreja Batista HOPE">
     <meta name="msapplication-TileImage" content="{{ asset('logo/favicon/ms-icon-310x310.png') }}" />
+
+        
+    <meta name="description" content="Uma igreja que acredita na simplicidade e leveza do envagelho de Jesus!">
+    <meta property="og:url" content="http://www.ibhope.com.br/" />
+    <meta property="og:type"    content="website" />
+    <meta property="og:title"   content="ibhope.com.br" />
+    <meta property="og:description" content="Uma igreja que acredita na simplicidade e leveza do envagelho de Jesus!" />
+    <meta property="og:image"   content="{{ asset('logo/favicon/ms-icon-310x310.png') }}" />
 
 
     <link rel="icon" type="image/png" sizes="32x32" href="{{ asset('logo/favicon/favicon-32x32.png') }}">
