@@ -3,26 +3,27 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto">
-            <h2 class="text-white mb-4">Respondendo ao Chamado</h2>
+            <h2 class="text-white mb-4">Nossa história</h2>
             <p class="text-white-50 text-justify">
 
-              Tudo começou com algumas famílias apaixonadas e decididas a viverem o propósito de Cristo em suas vidas... 
-              <br><br>
-              Após a consagração do Pastor <b class="text-white">Jonas Serra</b> e sua esposa <b class="text-white">Graciela Serra</b>, quatro famílias se juntam e se reúnem (Jonas, Graciela e Ana Clara; Dieison, Mariane, Pedrinho e Dion Marcos; Jeferson e Camila; Rodrigo, Duda e Marina) decididas a caminharem na mesma <b class="text-white">visão e propósito</b> de viverem somente a simplicidade do Evangelho de Cristo na sua essência, fora dos moldes “opressores” da religiosidade e da religião, decidiram
-em comum acordo fazerem dos seus encontros de louvor e adoração ao Senhor em uma simples garagem, a
-nossa atual e denominada <b class="text-white">IGREJA BATISTA HOPE</b> em Curitiba.
-              <br><br>
+              Tudo começou com um grupo de pessoas apaixonadas e decididas a viverem o chamado de Cristo em suas vidas. Após a consagração do Pastor <b class="text-white">Jonas Serra</b>,  ele e sua esposa <b class="text-white">Graciela</b> e mais duas famílias*, se juntaram convictos a caminharem na mesma <b class="text-white">visão e propósito</b>. Dos encontros de louvor e adoração em uma simples garagem nasceu a atual <b class="text-white">IGREJA BATISTA HOPE</b> em Curitiba.
 
-              Hoje, vivendo o propósito de levar a Esperança do Evangelho a todos, também estamos convictos de que a igreja não é só um “Hospital para doentes”, mas um centro de <b class="text-white">restauração e ativação de propósitos</b>, para maior edificação do “Corpo de Cristo” no seu <b class="text-white">Reino</b>.
+              <br><br> 
 
-              
-              <br><br>
+              <i  class="text-white"> "E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."</i> <small>Romanos 8:28</small>
+               
+              <br><br> 
 
-              Pois entendemos que se cada servo resgatar sua identidade e propósito no Reino, Todos teremos uma igreja muito mais saudável, potencializada e motivada para sua grande missão de servir.
+              <small  style="font-size: 10px;">*Famílias que iniciaram:<br>
+                &nbsp;&nbsp;&nbsp; Família Serra (Pastor Jonas, Graciela e Ana Clara)<br>
+                &nbsp;&nbsp;&nbsp; Família Borges (Dieison, Mariane, Pedro e Dion Marcos)<br>
+                &nbsp;&nbsp;&nbsp; Família Machado (Jeferson e Camila)</small>
+
+
             </p>
             <p class="text-white-50 text-center">
 
-              <i  class="text-white">"E sabemos que todas as coisas contribuem juntamente para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."</i> <small>Romanos 8:28</small>
+              
 
             </p>
             
@@ -32,14 +33,14 @@ nossa atual e denominada <b class="text-white">IGREJA BATISTA HOPE</b> em Curiti
         <div class="col-lg-8 mx-auto">
           <h2 class="text-white mb-4">Visão</h2>
           <p class="text-white-50 text-justify">
-            Ser uma igreja movida por princípios Bíblicos, desconectados dos moldes da religiosidade e vivendo a esperança e a simplicidade do evangelho de Cristo.
+            Ser uma igreja viva, atuante e consciente na sua missão de adorar e servir ao Senhor, vivendo a leveza do caminhar no Reino, libertos dos moldes opressores da religiosidade, manifestando a simplicidade do evangelho de Cristo em nós, a essência muito além da aparência.
           </p>
         </div>
 
         <div class="col-lg-8 mx-auto">
           <h2 class="text-white mb-4">Missão</h2>
           <p class="text-white-50 text-justify">
-            Levar a palavra de <b class="text-white">Salvação e Esperança</b> a todos, afetar os rumos da nossa sociedade através da palavra, restaurar de forma ativa, ministérios e propósitos para potencializar e edificar o "Corpo de Cristo" na sua missão de servir.
+            Levar a mensagem de salvação e esperança a todos, afetando os rumos da nossa sociedade através da Palavra de Deus e da nossa ação como Filhos do Reino. Restaurar, de forma consciente e ativa, ministérios e propósitos na vida de cada servo, para potencializar e edificar o Corpo de Cristo na sua missão de servir.
           </p>
         </div>
 

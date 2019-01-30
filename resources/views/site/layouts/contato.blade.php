@@ -10,14 +10,13 @@
                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                 <h4 class="text-uppercase m-0">Endereço</h4>
                 <hr class="my-4">
-                <div class="small text-black-20">Ops! Ainda não temos um templo, mas assim como Jesus nos reunimos em nossas casas:</div>
+                <div class="small text-black-20">Venha conhecer nossa família:</div>
                 <br>
                   <p class="small text-black-50 text-left">
-                    <span class="fa fa-home"></span> Rua Sgt Milano, 2170 - Bacacheri
-                    <br>
-                    <span class="fa fa-home"></span> Rua João Gualberto, 1515 - Alto da Glória
-                    <br>
-                    <span class="fa fa-home"></span> Rua Sgt Erwin, 2208, Ap 201 - Bacacheri
+                    <span class="fa fa-home"></span> Rua dos Xaverianos, nº 327 - Bairro Alto
+                    Próximo a trincheira Bairro Alto / Bacacheri
+                    <br><br>
+                    <span class="fa fa-envelope"></span> CEP: 82820-510
                   </p>
 
                   <p class="small text-black-50 text-center">Curitiba - PR</p>

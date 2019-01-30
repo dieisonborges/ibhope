@@ -14,7 +14,7 @@
               <a class="nav-link js-scroll-trigger" href="#nossahistoria">Nossa História</a>
             </li>            
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#noscremos">Nós cremos</a>              
+              <a class="nav-link js-scroll-trigger" href="#noscremos">Nisso cremos</a>              
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#ministerios">Ministérios</a>
